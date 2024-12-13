@@ -10,5 +10,5 @@
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
 
-
+### 📊 Github Stats 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alexs106&layout=compact)
