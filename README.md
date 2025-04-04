@@ -1,7 +1,7 @@
 ### Hello World, I'm Alex !
 
-:woman_technologist: 3rd year Computer Science student at Sorbonne Université.<br/>
-:keyboard: Interested in Cybersecurity and Artificial Intelligence.<br/>
+:woman_technologist: Etudiante en L3 Informatique à Sorbonne Université.<br/>
+:keyboard: Intéréssé dans la cybersécurité et l'intelligence artificielle.<br/>
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
